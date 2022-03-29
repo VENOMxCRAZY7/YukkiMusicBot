@@ -1,4 +1,4 @@
-
+[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/VENOM-CRAZY/VENOM-MUSIC&envs=SESSION_NAME,BOT_TOKEN,ASS_ID,OWNER_ID,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,LOG_GROUP_ID,MONGO_DB_URI
 
 
 
@@ -46,4 +46,4 @@
 
 
 
-- [
+
